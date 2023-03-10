@@ -1,3 +1,3 @@
   # React App ⚛️
 
-  This is a basic react app project, which can be used as a starting point for creating new applications. It uses webpack as bundler and the babel javascript transpiler.
+  This is a basic calculator implemented using React, for practicing concepts like state and component reusability.
