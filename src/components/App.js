@@ -48,7 +48,7 @@ function App() {
             default:
                 result = "ERROR!";
         }
-        setVisorText(result.toString());
+        setVisorText(result.toString().slice(0, 15));
         setIsResult(true);
         setFirstNumber("");
     }
